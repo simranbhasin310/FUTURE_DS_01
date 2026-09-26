@@ -37,8 +37,6 @@ Analyze business sales data to identify revenue trends, top-selling products, hi
 
 Full charts, code, and detailed write-up are in the notebook.
 
----
-*Submitted as part of the Future Interns Data Science & Analytics internship.*
 ## Author
 
 **Simran Bhasin**
@@ -46,3 +44,5 @@ Full charts, code, and detailed write-up are in the notebook.
 - GitHub: https://github.com/simranbhasin310/
 - Email: simranbhasin310@gmail.com
 - Portfolio: https://github.com/simranbhasin310/SimranBhasin310.github.io
+---
+*Submitted as part of the Future Interns Data Science & Analytics internship.*
